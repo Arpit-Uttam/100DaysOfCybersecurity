@@ -13,7 +13,7 @@ It is important because it safeguards sensitive information from theft and damag
 
 2. JAGUAR LAND ROVER: A cyberattack on Jaguar Land Rover disrupted production operations, halting output at least until September 24, 2025, and significantly affecting the company's daily activities </br>
 
-3 . CIACO: Cisco faced a data breach in July 2025 when voice phishing targeted a third-party CRM system, leading to the leak of basic user profile data, including names and emails of Cisco.com users. </br>
+3. CIACO: Cisco faced a data breach in July 2025 when voice phishing targeted a third-party CRM system, leading to the leak of basic user profile data, including names and emails of Cisco.com users. </br>
 
 ## DPDP ACT 2023
 The Digital Personal Data Protection (DPDP) Act, 2023, is India's first comprehensive data privacy law, enacted in August 2023, to regulate the processing of digital personal data. It establishes a legal framework for individuals' rights to data privacy and the obligations of organisations (known as Data Fiduciaries) that handle their data, striking a balance between privacy and lawful data processing. The act aims to protect citizens' digital information by requiring explicit consent for processing, mandating specific data handling practices, providing individuals control over their data, and introducing the Data Protection Board of India to enforce compliance and impose penalties for breaches.
