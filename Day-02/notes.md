@@ -8,16 +8,16 @@
 - Cloud/IoT Threats
 
 ## SOCIAL ENGINEERING ATTACKS
-# PHISHING
+### PHISHING
 Phishing is a cyber-attack in which attackers impersonate legitimate organizations or contacts via email, text messages, or websites to deceive people into providing critical information such as passwords, credit card numbers, or bank account details. These messages often look convincing, exploiting trust and urgency to lure victims into clicking malicious links or downloading harmful files
 
-# WHALING
+### WHALING
 Whaling is a specialized form of phishing that targets high-profile individuals like CEOs, CFOs, or other senior executives. Unlike broad phishing campaigns, whaling attacks are highly personalized and thoroughly researched to maximize credibility and success. Attackers often use sophisticated techniques, referencing real company details or business scenarios, to trick executives into divulging sensitive business information or authorizing large financial transactions
 
-# SMISHING
+### SMISHING
 Smishing (SMS phishing) is a variant of phishing that uses text messages to trick victims. Attackers send fraudulent SMS messages, often posing as banks, delivery companies, or other trusted sources, instructing recipients to click links or call numbers. These links usually lead to malicious websites or prompt the user to share sensitive details, enabling attackers to steal information or install malware
 
-# BAITING
+### BAITING
 Baiting is a form of social engineering attack where attackers use enticing offers to draw victims into performing risky actions. A common digital baiting example involves fake online promotions for free movies or music downloads, which actually deliver malware. Physical baiting—involving malware-infected USB drives left in public places—relies on victims’ curiosity to insert the device, thereby compromising the system
 
 ## MALWARE ATTACKS
