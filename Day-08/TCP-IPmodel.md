@@ -23,4 +23,4 @@
 
 ## 💡KEY TAKEAWAYS
 - It is the backbone of computer networking
-- It illustrates how communication is done on the internet.
+- Define how data travels from one device to another
