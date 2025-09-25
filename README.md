@@ -8,7 +8,7 @@ This repository documents my daily progress in learning and practising cybersecu
 ## 📅 Progress Tracker
 - ✅ Day 01 - Introduction to Cybersecurity
 - ✅ Day 02 - Types of Cyber Attacks
-- [ ] Day 03 - TCP/IP Basics
+- ✅ Day 03 - CIA Triad
 - [ ] Day 04 - Common Cybersecurity Terminologies
 - [ ] Day 05 - Password Security
 - ...
