@@ -51,16 +51,16 @@ Spyware covertly monitors and collects data from a user's device without their c
 ## NETWORK & INFRASTRUCTURE ATTACKS
 
 ## DENIAL OF SERVICE (DoS)
-
+A Denial of Service (DoS) attack attempts to make a machine or network resource unavailable to its intended users by flooding it with excessive traffic or sending data in a way that causes the system to crash or become unresponsive. Attackers can use a single computer or, in more advanced Distributed DoS (DDoS) attacks, a botnet of many compromised machines. Common types include SYN floods, ICMP floods, and application-layer attacks
 
 ## BGP HIJACKING
-
+BGP Hijacking (Border Gateway Protocol Hijacking) refers to rerouting internet traffic through a malicious or misconfigured Autonomous System (AS) by pretending to own IP address blocks that actually belong to someone else. This corrupts global internet routing tables and can cause interception, data theft, service disruption, or redirection to malicious sites. Real-world cases have enabled attackers to intercept cryptocurrency transactions and disrupt global internet traffic
 
 ## PACKET SNIFFING
-
+Packet sniffing is a technique where an attacker uses software or hardware tools to intercept, monitor, and capture data packets traveling across a network. On unsecured or unencrypted networks, this allows attackers to eavesdrop on sensitive information like passwords, emails, or banking details. There are passive sniffing attacks (listening unobtrusively on hubs or wireless networks) and active sniffing attacks (introducing traffic or exploiting switches to collect data).
 
 ## DNS SPOOFING/POISONING
-
+DNS Spoofing, also known as DNS Cache Poisoning, is an attack where a DNS resolver's cache is injected with false information, causing users attempting to reach a legitimate website to be redirected to a malicious one. Attackers exploit vulnerabilities in how DNS servers handle name resolution and caching, manipulating users to visit phishing sites, steal credentials, or distribute malware. Once poisoned, users will continue to be redirected until the malicious entry expires from the cache
 
 
 ## SUPPLY CHAIN & ADVANCED THREATS
