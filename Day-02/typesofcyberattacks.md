@@ -81,18 +81,15 @@ Firmware is the low-level code controlling hardware like your computer’s boot 
 ## CLOUD & IoT BASED ATTACKS
 
 ### IoT BOTNETS
-
+IoT botnets are networks of infected Internet of Things (IoT) devices like cameras, routers, and smart appliances that attackers control remotely. These devices often have weak security (default passwords, unpatched firmware), making them easy to hijack. Once infected, they can be used for large-scale attacks like DDoS or to steal data. For example, June 2025 saw botnets exploiting specific IoT device vulnerabilities to expand their control over smart city and industrial networks.
 
 ### CLOUD MISCONFIGURATION EXPLOIT
-
+Cloud misconfiguration happens when cloud resources (storage, databases, APIs, servers) are set up incorrectly, exposing them to hackers. Common errors include leaving storage buckets open to the public, using weak identity and access controls, or exposing APIs without proper security. These mistakes allow attackers to access data, run malicious code, or steal credentials. For instance, a 2025 attack involved exploiting misconfigured DevOps tools to deploy cryptojacking malware.
 
 ### SMART HOME HACKS
-
-
+Smart home hacks occur when cybercriminals exploit vulnerabilities in connected devices like smart locks, cameras, thermostats, or AI assistants. Weak or backdoored devices enable attackers to spy, steal data, or even remotely control home systems. Recent research shows that AI integration in smart homes introduces new attack risks, such as malicious voice commands that could control lights, heaters, or delete important data. These risks highlight the need for stronger security in everyday smart devices
 
 
 ## 💡KEY TAKEWAYS
-- Cybersecurity is not a learning path; it's a need of today's era
-- Data is the new oil
-- Awareness is the first antivirus
+Cyberattacks use various methods like malware, phishing, DDoS, and supply chain breaches to exploit vulnerabilities. They are increasingly sophisticated, targeting networks, devices, and users at scale. The main goals are data theft, service disruption, and unauthorized access, requiring layered defenses to protect against them.
 
