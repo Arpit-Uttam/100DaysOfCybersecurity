@@ -22,9 +22,16 @@ Baiting is a form of social engineering attack where attackers use enticing offe
 
 ## MALWARE ATTACKS
 ## VIRUS
+A virus is a form of malware that attaches itself to legitimate programs or files, enabling it to spread when those files are shared or executed. Once inside a system, a virus may corrupt, delete, or steal data and can often replicate itself to infect additional files or systems
+
 ## TROJAN HORSE
+A Trojan horse is malicious software that disguises itself as legitimate or useful software to trick users into installing it. Unlike viruses, Trojans do not self-replicate but grant unauthorized access, steal data, or deliver more payloads, such as ransomware, after deceiving the user. Common examples include backdoor Trojans and banking Trojans
+
 ## RANSOMWARE
+Ransomware is a type of malware that encrypts a victim's files or locks their system, demanding a ransom (usually in cryptocurrency) to restore access. Victims may lose access to all important data unless backups exist or the ransom is paid. Ransomware typically spreads via phishing emails or malicious downloads and is a significant threat to both individuals and organizations
+
 ## SPYWARE
+Spyware covertly monitors and collects data from a user's device without their consent. It is typically used for commercial purposes or identity theft, tracking browsing activity, collecting keystrokes, or harvesting sensitive information such as passwords or banking details. Spyware can be more difficult for users to detect compared to Trojans
 
 ## WEB-BASED ATTACKS
 The Digital Personal Data Protection (DPDP) Act, 2023, is India's first comprehensive data privacy law, enacted in August 2023, to regulate the processing of digital personal data. It establishes a legal framework for individuals' rights to data privacy and the obligations of organisations (known as Data Fiduciaries) that handle their data, striking a balance between privacy and lawful data processing. The act aims to protect citizens' digital information by requiring explicit consent for processing, mandating specific data handling practices, providing individuals control over their data, and introducing the Data Protection Board of India to enforce compliance and impose penalties for breaches.
