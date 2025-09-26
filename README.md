@@ -9,8 +9,14 @@ This repository documents my daily progress in learning and practising cybersecu
 - ✅ Day 01 - Introduction to Cybersecurity
 - ✅ Day 02 - Types of Cyber Attacks
 - ✅ Day 03 - CIA Triad
-- [ ] Day 04 - Common Cybersecurity Terminologies
-- [ ] Day 05 - Password Security
+- [ ] Day 04 - Commonly used Cybersecurity Terminologies
+- [ ] Day 05 - Domains of Cybersecurity: Roles & Careers
+- [ ] Day 06 - Computer Network Basics
+- [ ] Day 07 - The OSI Model
+- [ ] Day 08 - TCP/IP Model
+- [ ] Day 09 - Firewalls 
+
+
 - ...
 - [ ] Day 100 - Capstone Project: Simulated Security Assessment
 
