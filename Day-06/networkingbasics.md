@@ -13,16 +13,16 @@ An IP address serves as a device's "home address" within a network, enabling the
 
 ## TYPES OF IP ADDRESSES
 ### IPv4 VS IPv6
-The two main address formats—IPv4 uses a 32-bit structure (e.g., 192.168.1.1), while IPv6 uses a 128-bit structure (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+The two main address formats—__IPv4__ uses a 32-bit structure (e.g., 192.168.1.1), while __IPv6__ uses a 128-bit structure (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 
 ### STATIC VS DYNAMIC
-- STATIC IP ADDRESS: Fixed and manually assigned; does not change over time
-- DYNAMIC IP ADDRESS: Automatically assigned by network services like DHCP; may change over time with each connection
+- __STATIC IP ADDRESS:__ Fixed and manually assigned; does not change over time
+- __DYNAMIC IP ADDRESS:__ Automatically assigned by network services like DHCP; may change over time with each connection
 
 
 ### PRIVATE VS PUBLIC 
-- PUBLIC IP ADDRESS: Used for communication on the global internet; assigned by an ISP and can be accessed from anywhere in the world.
-- PRIVATE IP ADDRESS: Used within local networks (e.g., homes, offices); not routable on the internet and helps conserve IP address space
+- __PUBLIC IP ADDRESS:__ Used for communication on the global internet; assigned by an ISP and can be accessed from anywhere in the world.
+- __PRIVATE IP ADDRESS:__ Used within local networks (e.g., homes, offices); not routable on the internet and helps conserve IP address space
 
 ## DNS (DOMAIN NAME SYSTEM)
 DNS (Domain Name System) is a hierarchical and distributed system that translates human-friendly domain names (like google.com) into numerical IP addresses that computers use to identify each other across the network. Without DNS, users would need to remember complex strings of numbers for every website they visit. When a domain is entered in a browser, the DNS finds the appropriate IP address through a multi-step query involving local caches, DNS resolvers, root servers, TLD servers, and authoritative servers—all usually within milliseconds.
