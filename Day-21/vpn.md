@@ -90,23 +90,24 @@ A tunnelling protocol used to encapsulate many types of network layer protocols 
 Protocols used to encrypt and secure communication over the internet. Many VPNs like OpenVPN and SSTP use TLS/SSL as the basis for creating encrypted tunnels, benefiting from widespread client support and strong cryptographic standards
 
 ## COMMON TUNNELING AND VPN ATTACKS
-1. VPN Endpoint Vulnerabilities
-Attackers exploit software flaws in VPN servers or appliances to gain unauthorized access or execute malicious code.​
+1. VPN Endpoint Vulnerabilities:</br>
+Attackers exploit software flaws in VPN servers or appliances to gain unauthorised access or execute malicious code.​
 
-2. Session Hijacking
+2. Session Hijacking:</br>
 Stealing or hijacking active VPN sessions due to weak session management, allowing attackers access without credentials.​
 
-3. Credential Harvesting & Phishing
+3. Credential Harvesting & Phishing:</br>
 Phishing campaigns and weak credential policies lead to stolen VPN login details, enabling unauthorized network access.​
 
-4. Man-in-the-Middle (MitM) Attacks
+4. Man-in-the-Middle (MitM) Attacks:</br>
 Intercepting VPN traffic during connection setup by exploiting improper certificate validation or weak encryption.​
 
-5. Denial of Service (DoS) Attacks
+5. Denial of Service (DoS) Attacks:</br>
 Flooding VPN servers with traffic or exploiting protocol vulnerabilities to disrupt or crash VPN services.​
 
 ## 💡KEY TAKEAWAYS
-- We need vpn day to day life because threats are increasing day by day
+- We need vpn in day-to-day life because threats are increasing rapidly
+- vpn enhances your security, but does not provide complete anonymity
 
 
 
