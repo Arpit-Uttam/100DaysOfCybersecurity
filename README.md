@@ -16,9 +16,21 @@ This repository documents my daily progress in learning and practising cybersecu
 - ✅ Day 08 - TCP/IP Model
 - ✅ Day 09 - Firewalls
 - [ ] Day 10 - Cryptography
+- [ ] Day 11 - Authentication & Authorization
+- [ ] Day 12 - OS Security
+- [ ] Day 13 - Web Application Security
+- [ ] Day 14 - Commonly used Cybersecurity Tools
+- [ ] Day 15 - CTF
+- [ ] Day 16 - Active Directory (part 1)
+- [ ] Day 17 - Active Directory (part 2)
+- [ ] Day 18 - Wireshark (part 1)
+- [ ] Day 19 - Wireshark (part 2)
+- [ ] Day 20 - TCP/UDP deep dive
+- [ ] Day 21 - Vpn & Tunneling Protocols
+- [ ] Day 22 - Wireless Security (WEP, WPA2, WPA3)
+- [ ] Day 23 - Linux Security Hardening
+- [ ] Day 24 - 
 
-
-- ...
 - [ ] Day 100 - Capstone Project: Simulated Security Assessment
 
 ---
