@@ -15,7 +15,7 @@ This repository documents my daily progress in learning and practising cybersecu
 - ✅ Day 07 - The OSI Model
 - ✅ Day 08 - TCP/IP Model
 - ✅ Day 09 - Firewalls
-- [ ] Day 10 - Cryptography
+- ✅ Day 10 - Cryptography
 - [ ] Day 11 - Authentication & Authorization
 - [ ] Day 12 - OS Security
 - [ ] Day 13 - Web Application Security
